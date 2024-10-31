@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QR Invoice Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-23 09:10+0000\n"
+"PO-Revision-Date: 2022-10-21 14:34+0000\n"
+"Last-Translator: Charly Suter\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0\n"
+"X-Domain: qr-invoice"
+
+#: settings.php:422
+msgid ""
+"A Flag indicating if the post office should use environmentally friendly "
+"papel."
+msgstr ""
+"Eine Flagge, die anzeigt, ob das Postamt umweltfreundliches Papier verwenden "
+"soll."
+
+#: settings.php:555
+msgid ""
+"A flag to indicate the system if it should calculate the VAT based on the "
+"amount or over the amount."
+msgstr ""
+"Eine Flagge, die anzeigt, ob das System die Mehrwertsteuer auf Basis des "
+"Betrags oder über den Betrag hinaus berechnen soll."
+
+#: settings.php:185
+msgid "Address"
+msgstr "Adresse"
+
+#: include/woo-payment-gateway.php:34
+msgid ""
+"Allows QR Invoice payments. Orders are marked as \"Processing\" when "
+"received."
+msgstr ""
+"Ermöglicht QR-Rechnungszahlungen. Bestellungen werden bei Eingang als \"in "
+"Bearbeitung\" markiert."
+
+#: qrmodul-invoice.php:38
+msgid "API docs"
+msgstr "API Dokumente"
+
+#: include/woo-payment-gateway.php:104
+msgid "Awaiting QR Invoice payment"
+msgstr "Warten auf QR-Rechnungszahlung"
+
+#: settings.php:60
+msgid ""
+"Based on surveys this does shorten the time it takes until your customers "
+"pay the Invoices on average."
+msgstr ""
+"Umfragen zufolge verkürzt dies im Durchschnitt die Zeit, bis Ihre Kunden die "
+"Rechnungen bezahlen."
+
+#: settings.php:445
+msgid "Black and White"
+msgstr "Schwarz und Weiss"
+
+#: settings.php:369
+msgid ""
+"By default, invoices are sent via WooCommerce as an email including the QR "
+"payment part."
+msgstr ""
+"Standardmäßig werden Rechnungen über WooCommerce als E-Mail verschickt, die "
+"den QR-Zahlungsteil enthält."
+
+#: settings.php:538
+msgid "By default, invoices displays products part and payment part."
+msgstr ""
+"Standardmäßig werden in Rechnungen der Produktteil und der Zahlungsteil "
+"angezeigt."
+
+#: settings.php:552
+msgid "Calculate VAT"
+msgstr "Mehrwertsteuer berechnen"
+
+#: settings.php:104
+msgid "Client ID"
+msgstr "Kunden-ID"
+
+#: settings.php:113
+msgid "Client Secret"
+msgstr "Geheimschlüssel"
+
+#: settings.php:122
+msgid "Client Token Duration (seconds)"
+msgstr "Kunden-Token Dauer (Sekunden)"
+
+#: settings.php:167 settings.php:444
+msgid "Color"
+msgstr "Farbe"
+
+#: settings.php:291
+msgid "Connection"
+msgstr "Verbindung"
+
+#. Description of the plugin
+msgid "Create invoices with the official Swiss QR payment part via QRModul.ch"
+msgstr ""
+"Erstellen Sie Rechnungen mit dem offiziellen Schweizer QR-Zahlungsteil über "
+"QRModul.ch"
+
+#: include/woo-payment-gateway.php:71
+msgid "Description"
+msgstr "Beschreibung"
+
+#: include/woo-functions.php:20
+msgid "Download Invoice"
+msgstr "Download Rechnung"
+
+#: include/woo-payment-gateway.php:60
+msgid "Enable QR Invoice Payment"
+msgstr "QR-Rechnungszahlung aktivieren"
+
+#: include/woo-payment-gateway.php:58
+msgid "Enable/Disable"
+msgstr "Aktivieren/Deaktivieren"
+
+#: settings.php:317
+msgid "Enter your reference info:"
+msgstr "Geben Sie Ihre Referenzinformationen ein:"
+
+#: settings.php:312
+msgid "Enter your settings below:"
+msgstr "Geben Sie unten Ihre Einstellungen ein:"
+
+#: settings.php:395
+msgid "Express"
+msgstr "Express"
+
+#: settings.php:176
+msgid "Franking Envelopes"
+msgstr "Frankatur"
+
+#: settings.php:53
+msgid "here"
+msgstr "hier"
+
+#. Author URI of the plugin
+msgid "https://kmu-digitalisierung.agency"
+msgstr "https://kmu-digitalisierung.agency"
+
+#. URI of the plugin
+msgid "https://qrmodul.ch"
+msgstr "https://qrmodul.ch"
+
+#: settings.php:367
+msgid ""
+"If checked, then invoice will send via Mail. Chargeable option is billed via "
+"QR module."
+msgstr ""
+"\n"
+"Wenn diese Option aktiviert ist, wird die Rechnung per Post versandt. Die "
+"kostenpflichtige Option wird über das QR-Modul abgerechnet."
+
+#: settings.php:536
+msgid "If checked, then invoices will display only payment part"
+msgstr ""
+"Wenn diese Option aktiviert ist, wird in der Rechnung nur der Zahlungsteil "
+"angezeigt."
+
+#: settings.php:475
+msgid ""
+"If the generated file is a template invoice then 'A', 'B' or 'none' are "
+"valid options."
+msgstr ""
+"Wenn die generierte Datei eine Rechnungsvorlage ist, sind 'A', 'B' oder "
+"'keine' gültige Optionen."
+
+#: settings.php:350
+msgid "If this field is left blank, then the default profile is used."
+msgstr ""
+"Wenn dieses Feld leer gelassen wird, wird das Standardprofil verwendet."
+
+#: settings.php:568
+msgid "If this field is left blank, then the default template invoice is used."
+msgstr ""
+"Wenn Sie dieses Feld leer lassen, wird die Standard-Rechnungsvorlage "
+"verwendet."
+
+#: include/woo-payment-gateway.php:78
+msgid "Instructions"
+msgstr "Anleitung"
+
+#: include/woo-payment-gateway.php:80
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr "Anweisungen, die der Dankeseite und den E-Mails hinzugefügt werden."
+
+#: settings.php:230
+msgid "Invoice Payable Until"
+msgstr "Rechnung zahlbar bis"
+
+#: settings.php:221
+msgid "Invoice Template Name"
+msgstr "Name der Rechnungsvorlage aus QR Modul"
+
+#: settings.php:239
+msgid "Invoice VAT"
+msgstr "Rechnung MwSt."
+
+#. Author of the plugin
+msgid "KMU Digitalisierung for QRModul.ch"
+msgstr "KMU Digitalisierung für QRModul.ch"
+
+#: settings.php:149
+msgid "Letter Dispatch Priority"
+msgstr "Briefversand Priorität"
+
+#: settings.php:364
+msgid "Mail (SwissPost A/B Priority)"
+msgstr "Post (SwissPost A/B Post)"
+
+#: settings.php:351
+msgid "Master data"
+msgstr "Stammdaten"
+
+#: settings.php:158
+msgid "My Climate"
+msgstr "MyClimate"
+
+#: settings.php:420
+msgid "No"
+msgstr "Neine"
+
+#: include/woo-functions.php:22
+msgid "no invoice..."
+msgstr "keine Rechnung..."
+
+#: settings.php:53
+msgid "open an account with a few clicks and enter the key."
+msgstr ""
+"Eröffnen Sie mit wenigen Klicks ein Konto und geben Sie den Schlüssel ein."
+
+#: include/woo-payment-gateway.php:67
+msgid "Pay by Invoice"
+msgstr "Per Rechnung bezahlen"
+
+#: include/woo-payment-gateway.php:73
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"Beschreibung der Zahlungsmethode, die der Kunde an Ihrer Kasse sehen wird."
+
+#: settings.php:594
+msgid "Please enter percentage of Vat. Example - 7.7"
+msgstr "Bitte geben Sie den Prozentsatz der Mehrwertsteuer ein. Beispiel 7.7"
+
+#: settings.php:654
+msgid "Please fill out all fields above!"
+msgstr "Bitte füllen Sie alle Felder oben aus!"
+
+#: settings.php:53
+msgid "Please register"
+msgstr "Bitte registrieren Sie sich"
+
+#: include/woo-payment-gateway.php:74
+msgid "Please remit payment to Store upon pickup or delivery."
+msgstr ""
+"Bitte überweisen Sie die Zahlung bei Abholung oder Lieferung an den Store."
+
+#: settings.php:194
+msgid "Postal Tariff"
+msgstr "Posttarif"
+
+#: settings.php:131
+msgid "Profile ID"
+msgstr "Profil ID"
+
+#: include/woo-payment-gateway.php:33
+msgid "QR Invoice"
+msgstr "QR Rechnung"
+
+#. Name of the plugin
+#: settings.php:30 settings.php:47 include/woo-functions.php:34
+#: include/woo-functions.php:34
+msgid "QR Invoice Plugin"
+msgstr "QR Rechnung Plugin"
+
+#: settings.php:58
+msgid ""
+"QR Modul Plugin for WooCommerce does offer to send the invoices via postal "
+"mail."
+msgstr ""
+"Das QR Modul Plugin für WooCommerce bietet die Möglichkeit, Rechnungen per "
+"Post zu versenden."
+
+#: settings.php:533
+msgid "QR Payment part only"
+msgstr "Nur QR Zahlteile"
+
+#: include/woo-functions.php:6
+msgid "Qr-Modul Invoice"
+msgstr "Qr-Modul Rechnung"
+
+#: include/api.php:202
+msgid "QRbill"
+msgstr "QRRechnung"
+
+#: settings.php:273
+msgid "Reference Custom Id"
+msgstr "Benutzerdefinierte Referenz-ID"
+
+#: settings.php:282
+msgid "Reference Date"
+msgstr "Referenz-Datum"
+
+#: settings.php:264
+msgid "Reference Type"
+msgstr "Referenz-Typ"
+
+#: settings.php:203
+msgid "Remarks to Printshop"
+msgstr "Bemerkungen für Druckerei"
+
+#: settings.php:140
+msgid "Send Invoice"
+msgstr "Rechnung senden"
+
+#: qrmodul-invoice.php:36
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: settings.php:29
+msgid "Settings Admin"
+msgstr "Einstellungen Admin"
+
+#: settings.php:63
+msgid ""
+"Should you like to add your Logo on the envelops or do specific marketing "
+"campaigns by attaching brochures or flyers to your Invoices, please feel "
+"free to get in contact by e-Mail"
+msgstr ""
+"Wenn Sie Ihr Logo auf den Umschlägen anbringen oder spezielle "
+"Marketingkampagnen durchführen möchten, indem Sie Ihren Rechnungen "
+"Broschüren oder Flyer beifügen, können Sie sich gerne per E-Mail mit uns in "
+"Verbindung setzen."
+
+#: settings.php:394
+msgid "Standard"
+msgstr "Standard"
+
+#: settings.php:49
+msgid "Thank you for installing the QR Invoice plugin."
+msgstr "Vielen Dank, dass Sie das QR Invoice Plugin installiert haben."
+
+#: settings.php:486
+msgid ""
+"The address to send the letter. The address cannot conatin more than 4 lines "
+"with a max of 35 characters for each line."
+msgstr ""
+"Die Adresse, an die der Brief geschickt werden soll. Die Adresse kann nicht "
+"mehr als 4 Zeilen mit maximal 35 Zeichen pro Zeile umfassen."
+
+#: settings.php:511
+msgid ""
+"The collective address' postal tariff. The possible values are: "
+"'postpac_priority' or 'swiss_express'."
+msgstr ""
+"Der Posttarif der Sammeladresse. Die möglichen Werte sind: "
+"'postpac_priority' oder 'swiss_express'."
+
+#: settings.php:642
+msgid "The date to use to generate reference. The format of date is DD/MM/YYYY"
+msgstr ""
+"Das Datum, das für die Erstellung der Referenz verwendet wird. Das Format "
+"des Datums ist DD/MM/YYYY"
+
+#: settings.php:632
+msgid ""
+"The id to use to generate reference. i if the reference type is QRR the "
+"maximum length of this id is 10, other hand if is SCOR the length is 6."
+msgstr ""
+"Die für die Erstellung der Referenz zu verwendende ID. Wenn der Referenztyp "
+"QRR ist, beträgt die maximale Länge dieser ID 10, bei SCOR ist die Länge 6."
+
+#: settings.php:522
+msgid ""
+"The Letter dispatch's remarks to the printshop. The remarks cannot contain "
+"more than 2 lines with a max of 45 characters for each line."
+msgstr ""
+"Die Bemerkungen für den Briefversand an die Druckerei. Der Vermerk darf "
+"nicht mehr als 2 Zeilen mit maximal 45 Zeichen pro Zeile enthalten."
+
+#: settings.php:447
+msgid ""
+"The letter's color. The possible values are: 'Color' or 'Black and White'"
+msgstr ""
+"Die Farbe des Briefes. Die möglichen Werte sind: 'Farbe' oder 'Schwarz-Weiß'."
+
+#: settings.php:474
+msgid ""
+"The letter's franking evelopes. The possible values are: 'A','B' or 'none'. "
+"IF the generated file is payment part only then 'none' is the valid option."
+msgstr ""
+"Die Frankierumschläge des Briefes. Die möglichen Werte sind: 'A', 'B' oder "
+"'keine'. "
+
+#: settings.php:397
+#| msgid ""
+#| "The letter's priority. The possible values are: 'standar' or 'express'."
+msgid ""
+"The letter's priority. The possible values are: 'standard' or 'express'."
+msgstr ""
+"Die Priorität des Briefes. Die möglichen Werte sind: 'Standard' oder "
+"'Express'."
+
+#: settings.php:581
+msgid ""
+"The number of days from the date of creation of the order, during which "
+"payment must be made according to the invoice."
+msgstr ""
+"Die Anzahl der Tage ab dem Erstellungsdatum der Bestellung, in denen die "
+"Zahlung gemäß der Rechnung erfolgen muss."
+
+#: settings.php:620
+msgid ""
+"The type of reference to generate. The possible values are: 'QRR','SCOR'."
+msgstr ""
+"Die Art der zu erzeugenden Referenz. Die möglichen Werte sind: 'QRR','SCOR'."
+
+#: include/woo-payment-gateway.php:66
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+"Dies steuert den Titel für die Zahlungsmethode, die der Kunde während der "
+"Kaufabwicklung sieht."
+
+#: settings.php:51
+msgid "This plugin requires an account and the API key from QRModul.ch."
+msgstr ""
+"Dieses Plugin erfordert ein Konto und den API-Schlüssel von QRModul.ch."
+
+#: include/woo-payment-gateway.php:64
+msgid "Title"
+msgstr "Titel"
+
+#: settings.php:351
+msgid "To get Profile ID you can on the page"
+msgstr "Um die Profil-ID zu erhalten, können Sie auf "
+
+#: settings.php:212
+msgid "Type Invoice"
+msgstr "Typ der Rechnung"
+
+#: settings.php:247
+msgid "VAT on Shipping Costs"
+msgstr "MWSt auf Versand"
+
+#: qrmodul-invoice.php:38
+msgid "View API docs"
+msgstr "API-Dokumente anzeigen"
+
+#: settings.php:419
+msgid "Yes"
+msgstr "Ja"
